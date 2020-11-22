@@ -6,7 +6,7 @@
 
 > Clone This Repo To Your PC 
 
-> pip install pillow
+> pip install <Required Module>
 
 > Run The Python File's
 
