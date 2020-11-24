@@ -1,17 +1,25 @@
 # Image Filtering Using Python
 
-### Feel Free To Add A Pull Request . To Add Additional Filter's You Might Know
+### Adding A New Image Filter
+
+> Add Your Github Link In The Author's In The Following Format
+
+*  *Your Name* - [Profile Name] (Profile Link)
+
+* Create A New Python File And Add The Filter
+
+* Pull Request 
 
 ### Installing
 
-> Clone This Repo To Your PC 
+* Clone This Repo To Your PC 
 
-> pip install <Required Module>
+* pip install <Required Module>
 
-> Run The Python File's
+* Run The Python File's
 
 
 ## Authors
 
-* **Belgin Android** - *All Works* - [Belgin Android](https://github.com/Belgin-Android)
+* **Belgin Android** - [Belgin Android](https://github.com/Belgin-Android)
 
