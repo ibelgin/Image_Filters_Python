@@ -1,4 +1,4 @@
-# Image Filtering Using Python
+# Image Filter's In Python
 
 ### Adding A New Image Filter
 
